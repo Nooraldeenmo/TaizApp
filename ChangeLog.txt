@@ -1,51 +1,43 @@
-{"version_code":451201,"content":"
-<p>تحديث 1.30</p>
+{"version_code":451207,"content":"
+<p>تحديث 1.50</p>
+<p>Update 1.50</p>
 
-<li>التحديث لنسخة الماركت 2.18.9</li>
-<li>اضافة ميزة تبديل الفيسات بامكانك الان الرحوع الى الفيسات القديمه</li> 
-<li>اضافة ميزة النص التلقائي</li> 
-<li>(حصريا) إضافة الرد التلقائي (يمكنك إرسال رد تلقائي للرسائل الواردة عندما تكون انت مشغولا)</li>
-<li>تفعيل ميزة البحث عن عضو في معلومات المجموعة</li>
-<li>إضافة إمكانية تعديل معلومات المجموعة من قبل المشرفين فقط</li>
-<li>إضافة 7 اشكال جديدة لفقاعة المحادثة الخيار رقم 1.2.3</li>
-<li>إضافة 4 اشكال جديدة لصحين القراءة والاستلام الخيار رقم 6.1</li>
-<li>إضافة 5 ايقونات جديدة لايقونة البرنامج الرئيسية الخيار رقم 6.0</li>
-<li>إضافة 16 ايقونة جديدة لاشعارات الرسائل الخيار رقم 6.3</li>
-<li>إضافة الخيار رقم 1.2.64 لتعطيل ظهور  مشرف المجموعة  بجانب الاسم في المجموعة</li>
-<li>إضافة الخيار رقم 1.2.65 لتغيير لون  مشرف المجموعة  بجانب الاسم في المجموعة</li>
-<li>يمكنك إدارة مشرفي المجموعة من خلال معلومات المجموعة</li>
-<li>إصلاح إمكانية فتح/الاتصال باي محادثة مخفية من خلال (تطبيق جهات الاتصال الموجود على الجهاز)</li>
-<li>إصلاح ظهور المحادثات المخفية عند مشاركة ملف وسائط للبرنامج</li>
-<li>إصلاح إمكانية فتح اي محادثة مخفية من خلال ميزة  إرسال رسالة لرقم غير محفوظ في جهازك </li>
-<li>إصلاح ظهور المحادثات المخفية في الويدجت</li>
-<li>إصلاح إمكانية فتح البرنامج من الويدجت عند وضع قفل للبرنامج</li>
-<li>إصلاح إمكانية الاتصال بمحادثة مخفية من خلال المجموعة</li>
-<li>دعم اللغة الهندية </li>
-<li>إصلاحات اخرى</li>
+<li>التحديث لنسخة الماركت 2.18.203</li>
+<li>حصريا اضافة ميزة النص التلقائي</li>
+<li> (حصرياً) ‏إضافة سجل للرسائل المحذوفة، يمكنك الان مشاهدة الرسائل التي قام الطرف الاخر بحذفها بأي وقت تشاء(إفتح بروفايل اي محادثة ثم الرسائل المحذوفة)</li>
+<li>حصريا اضافة ميزة تبديل الحسابات ب10 ارقام </li>
+<li>اضافة ميزة تغيير الفيسات</li>
+<li> حصريا تمت اضافة 1000 حالة داخل الواتساب</li>
+<li>حصريا اضافة مكتبة اسلامية داخل الواتساب وتشمل(القران الكريم_الاذكار_ادعية_احاديث نبوية)</li>
+<li>اضافة قسم منوع اكتشفه بنفسك</li>
+<li>اصلاح خيار الثيمات واضافة ثيمات جديده<li>
+<li>إمكانية اخفاء الصور والفيديوهات من الاستديو مع بقاء إمكانية مشاهداتها عبر تطبيق الواتساب (افتح بروفايل اي محادثة ثم عرض الوسائط)<li>
+<li>تفعيل الخيار حفظ المحادثه على شكل ملف مضغوط و إمكانية مشاركتها(الخيارات – المزيد – نقل الدردشة)<li>
+<li>تفعيل ميزة تمييز الرسالة كمقروءة من الإشعارات<li>
+<li>تفعيل خيار تحديد الكل للدردشات في الشاشة الرئيسية<li>
+<li>إمكانية طلب تقرير معلومات حسابك في واتساب وإعداداته وكذلك نقله(افتح الإعدادات في واتساب – الحساب – طلب معلومات الحساب)<li>
+<li>إصلاح مشكلة عدم اظهار إشعار الرسائل المحذوفة في بعض الأجهزة<li>
+<li>إصلاح مشكلة البحث في الإنترنتli>
+<li>إصلاح مشكلة عمل نسخة إحتياطية و إستعادتها<li>
+<li>إصلاح مشكلة مشاركة و إرسال الثيمات<li>
+<li>تحديث اللغات الايطالية والبرتغالية<li>
+<li>اصلاحات اخرى<li>
 
-<li> New Base Updated to 2.18.9</li>
-<li>Added Change Emoji You Can Use Old Emoji</li>
-<li>Added Aouto Text</li>
-<li> (Super Exclusive) AutoReply (Auto Message when you are Busy)</li>
-<li> Enabled Search Participants</li>
-<li> Enabled Manage Group Admins</li>
-<li> Enabled Group Settings (Server Sided) </li>
-<li> Added 7 New Conversation Bubbles</li>
-<li> Added 4 New Ticks</li>
-<li> Added 16 New Notifying Bar Icons</li>
-<li> Added 5 New Launcher Icons </li>
-<li> Added Option to Hide Admin Caption in Group (Mod 1.2.64)</li>
-<li> Added Option to Color Admin caption in Group (Mod 1.2.65)</li>
-<li> Added Hindi Language (Indian Language) </li>
-<li> Fixed Hidden Chat opening from Phones</li>
-<li> Fixed Hidden Chat opening from Dialer</li>
-<li> Fixed Hidden Message showing in Widget</li>
-<li> Fixed Hidden Chat Opening from Widget</li>
-<li> Fixed Able to call Hidden Chat From Group</li>
-<li> Fixed Showing Hidden Chat when try to Share from Gallery or File Manager. </li>
-<li> Fixed App Opening from Widget even when Locked</li>
-<li> Fixed Crash On Some Devices</li>
-<li> Many More Fixes</li>
+<li> New Base Updated to 2.18.203</li>
+<li> Exclusive Know Which Messages are Deleted Anytime you want (Go to Contact/Group Profile and Click on Revoked Messages) </li>
+<li> Enabled Media Visibility (Go to Profile - Media Visibility) </li>
+<li> Enabled Mark as Read in Notification.</li>
+<li> Enabled Select All Chats on Main Screen</li>
+<li> Removed Seperate App for Themes</li>
+<li> Removed Mod 6.8 as Old. </li>
+<li> Fixed Header Vibration for Hide Chats</li>
+<li> Fixed Revoke Notification not showing in Few Devices</li>
+<li> Fixed Apply Themes in Some Devices</li>
+<li> Fixed Web Search</li>
+<li> Fixed Backup & Restore (Mod 6.7)</li>
+<li> Fixed Share and Send Theme</li>
+<li> Updated Italian and Portuguese Language</li>
+<li> Many Other Fixes</li>
 
-","url":"http://nooraldeen-dev.blogspot.com/2018/02/TaizApp.html"
+","url":"https://www.dev-nooraldeen.com/2018/02/TaizApp.html"
 } 
